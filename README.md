@@ -29,6 +29,9 @@ I performed the following steps to ensure data integrity:
 &nbsp; Data Formatting: Standardized numerical values for Prevalence, Incidence and Mortality Rates to allow for accurate averaging and comparison in the dashboard.
 
 
+<img width="1294" height="446" alt="Cleaned_Global_Health_Stats" src="https://github.com/user-attachments/assets/f3e96391-e1cc-47b5-a266-dbd3180f7269" />
+
+
 
 ##### 2\. INTERACTIVE DASHBOARD 
 
@@ -48,6 +51,7 @@ Mortality Rates By Age and Gender(Grouped Bar Chart): Breaks down deaths by gend
 
 Incidence Rate By Country(Line Graph): Tracks the average rate of new diseases cases reported per country.
 
+ The Full dataset is available upon request( file size exceeds Github browser limits).
 
 
 ##### 3\. DYNAMIC EXPLORATION(SLICERS)
@@ -67,6 +71,10 @@ Disease Category: To filter the view to specific conditions such as Alzheimer's,
 
 
 Doctors Available: Allows users to filter by the number of medical professions available per 1000 people to see if better healthcare correlates with lower mortality rates.
+
+
+<img width="1122" height="604" alt="Global-Health-Dashboard" src="https://github.com/user-attachments/assets/2131aa00-711c-48df-ae0c-fa01f2d1aa1e" />
+
 
 
 
